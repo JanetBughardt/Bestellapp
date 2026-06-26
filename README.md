@@ -31,7 +31,7 @@ Pizza Time ist eine interaktive Restaurant-Webanwendung. Nutzer können Gerichte
 
 ### Desktop
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/Homepage.png)
 
 ### Mobile
 
